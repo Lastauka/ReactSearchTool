@@ -11,7 +11,7 @@ function App() {
      <Search />
     
    </div>
-
+   
 
   );
 }
